@@ -49,7 +49,7 @@ jobs:
         env:
           JEKYLL_ENV: production
         run: bundle exec jekyll build \
-          --source docs \
+          --source . \
           --destination _site \
           --baseurl "${{ steps.pages.outputs.base_path }}"
         working-directory: docs
