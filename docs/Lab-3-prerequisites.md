@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 3 Prerequisites
-nav_order: 4.5
+nav_order: 3.9
 ---
 
 Uploading Tools
