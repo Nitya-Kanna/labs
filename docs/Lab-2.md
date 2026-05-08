@@ -69,7 +69,7 @@ We will make this agent more powerful with more tools and access to APIs, and en
 1. Scroll down to the **Behavior** section. Insert the instructions below into the **Instructions** field:
 
     ```
-    Use your knowledge base to answer general questions about employee benefits. 
+    You must always use your knowledge base to answer all user questions. Always ground responses from the knowledge base that you have access to. 
     ```
 
     ![image](./imgs/lab-3a/hr_step12.png)
