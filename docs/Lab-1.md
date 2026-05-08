@@ -171,7 +171,7 @@ When gathering information from users, collect parameters conversationally rathe
  today
  ```  
  ```
- Singapore
+ city is Singapore
  ```
 
  ![image](./imgs/lab-1/step-24b.png)  
